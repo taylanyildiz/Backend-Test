@@ -10,7 +10,7 @@ const API_VERSION = '/api/v1';
 app.use(API_VERSION,router);
 
 
-require('./routers/add_user_router.js')(router);
+require('./routers/get_all_user_router.js')(router);
 
 
 app.listen(PORT, () => {
