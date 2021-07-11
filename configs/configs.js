@@ -1,10 +1,10 @@
 const configs = {
     mysql: {
-        host: '213.238.180.11',
+        host: '',
         port: 3307,
         dbname: 'library',
-        username: 'taylanyildz',
-        password: 'Taylan62..',
+        username: '--',
+        password: '--',
     }
 }
 
